@@ -1,0 +1,718 @@
+[1A[1B[0G[?25l[+] Running 0/0
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m0.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m0.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m1.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m1.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m2.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m2.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m3.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m3.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.6s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.7s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.8s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 0/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-4   Stopping[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m4.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 1/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m5.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m5.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Stopping[34m5.0s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 1/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-2   Removing[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 2/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m5.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.2s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m5.2s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.2s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 2/7
+ [33m-[0m Container sdet-architect-essentials-demo-edge-1     Stopping[34m5.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.3s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m5.3s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.3s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 3/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Stopping[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 3/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.5s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-5   Removing[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 4/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.6s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.6s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 4/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.7s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.7s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-1   Stopping[34m5.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 5/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Stopping[34m5.8s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.8s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 5/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-firefox-1  Removing[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 6/7
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [33m-[0m Container sdet-architect-essentials-demo-chrome-3   Stopping[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[34m[+] Running 7/7[0m
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.8s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m0.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.4s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.5s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.6s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.7s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m1.9s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m2.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m2.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 7/8
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [33m-[0m Container selenium-hub                              Stopping[34m2.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[34m[+] Running 8/8[0m
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [32m✔[0m Container selenium-hub                              [32mRemoved[0m[34m2.3s [0m
+ [33m-[0m Network sdet-architect-essentials-demo_default      Removing[34m0.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 8/9
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [32m✔[0m Container selenium-hub                              [32mRemoved[0m[34m2.3s [0m
+ [33m-[0m Network sdet-architect-essentials-demo_default      Removing[34m0.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[34m[+] Running 9/9[0m
+ [32m✔[0m Container sdet-architect-essentials-demo-edge-1     [32mRemoved[0m[34m5.4s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-firefox-1  [32mRemoved[0m[34m5.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-5   [32mRemoved[0m[34m5.5s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-2   [32mRemoved[0m[34m5.1s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-3   [32mRemoved[0m[34m6.0s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-4   [32mRemoved[0m[34m4.9s [0m
+ [32m✔[0m Container sdet-architect-essentials-demo-chrome-1   [32mRemoved[0m[34m5.8s [0m
+ [32m✔[0m Container selenium-hub                              [32mRemoved[0m[34m2.3s [0m
+ [32m✔[0m Network sdet-architect-essentials-demo_default      [32mRemoved[0m[34m0.2s [0m
+[?25h

@@ -1,0 +1,28 @@
+pipeline {
+    agent any
+    stages {
+        stage('build')
+        {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+        stage('integrate') {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+        stage('test')
+        {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+        stage('release')
+        {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+    }
+}
