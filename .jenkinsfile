@@ -1,25 +1,23 @@
 pipeline {
     agent any
     stages {
-        stage('build')
-        {
+        stage('build') {
             steps {
                 bat 'mvn clean'
                 bat 'mvn install'
+            }
         }
         stage('integrate') {
             steps {
                 bat 'mvn --version'
             }
         }
-        stage('test')
-        {
+        stage('test') {
             steps {
                 bat 'mvn test'
             }
         }
-        stage('release')
-        {
+        stage('release') {
             steps {
                 bat 'mvn --version '
             }
