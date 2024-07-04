@@ -4,28 +4,24 @@ pipeline {
         stage('build')
         {
             steps {
-                sh 'mvn clean'
-            }
-            steps {
-                sh 'mvn install'
-            }
-
+                bat 'mvn clean'
+                bat 'mvn install'
         }
         stage('integrate') {
             steps {
-                sh 'mvn --version'
+                bat 'mvn --version'
             }
         }
         stage('test')
         {
             steps {
-                sh 'mvn test'
+                bat 'mvn test'
             }
         }
         stage('release')
         {
             steps {
-                sh 'mvn --version '
+                bat 'mvn --version '
             }
         }
     }
